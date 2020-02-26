@@ -1,0 +1,7 @@
+C:\Users\filippov.o\source\repos\NoSplashFor1C\NoSplashFor1C\bin\Debug\NoSplashFor1C.exe.config
+C:\Users\filippov.o\source\repos\NoSplashFor1C\NoSplashFor1C\bin\Debug\NoSplashFor1C.exe
+C:\Users\filippov.o\source\repos\NoSplashFor1C\NoSplashFor1C\bin\Debug\NoSplashFor1C.pdb
+C:\Users\filippov.o\source\repos\NoSplashFor1C\NoSplashFor1C\obj\Debug\NoSplashFor1C.csprojAssemblyReference.cache
+C:\Users\filippov.o\source\repos\NoSplashFor1C\NoSplashFor1C\obj\Debug\NoSplashFor1C.csproj.CoreCompileInputs.cache
+C:\Users\filippov.o\source\repos\NoSplashFor1C\NoSplashFor1C\obj\Debug\NoSplashFor1C.exe
+C:\Users\filippov.o\source\repos\NoSplashFor1C\NoSplashFor1C\obj\Debug\NoSplashFor1C.pdb
